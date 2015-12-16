@@ -1,0 +1,28 @@
+name: Fullgasm
+favicon: null
+layout_spectrum: 0.75936583080329
+typography_spectrum: 0.7060488068964332
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6702106045559049
+  lightness: 0.6981113527435809
+  saturation: 0.6569369828794152
+  rhythmicContrast: 0.3979740012437105
+purpose: []
