@@ -1,20 +1,4 @@
-name: Fullgasm
-favicon: null
-layout_spectrum: 0.25937
 typography_spectrum: 0.06299
-title: Profound Pleasure TM
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#44ac63'
@@ -26,4 +10,20 @@ color:
   lightness: 0.5
   saturation: 0.375
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.25937
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Fullgasm
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Profound Pleasure TM
 purpose: []
